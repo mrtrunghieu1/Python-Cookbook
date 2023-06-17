@@ -1,2 +1,2 @@
 # Python-Cookbook
-Code samples form the "Python Cookbook"
+Code samples from the "Python Cookbook"
